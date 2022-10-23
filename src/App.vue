@@ -82,7 +82,6 @@ const hanldeSendFeedback = () =>
     feedbackText.value = "";
     feedbackHasSent.value = true;
   });
-
 </script>
 
 
